@@ -96,5 +96,8 @@
 		[null, null, null, 0, 0, 68, 110, 195, 460, 1100, 1650, 2500, null, null, null, null, null, null, null],
 		[null, null, null, 0, 0, 76, 135, 240, 550, 1250, 1900, 2900, null, null, null, null, null, null, null],
 		[null, null, null, 0, 0, 76, 135, 240, 580, 1400, 2100, 3200, null, null, null, null, null, null, null]
+	],
+	"note": [
+		"Note a: Fundamental deviations a and b shall not be used for nominal sizes <= 1 mm"
 	]
 }
