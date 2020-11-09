@@ -126,5 +126,13 @@
 			[5, 5, 7, 13, 23, 34],
 			[5, 5, 7, 13, 23, 34]
 		]
-	}
+	},
+	"note": [
+		"Note a: Fundamental deviations A and B shall not be used for nominal sizes <= 1 mm",
+		"Note b: Special case: for tolerance class M6 in the range above 250 mm up to and including 315 mm, ES=-9 μm (instead of -11 μm according to the calculation)",
+		"Note c: For determining the values K and M, see 4.3.2.5",
+		"Note d: For Δ values, see Table 3",
+		"Note e: For determining the values N and P to ZC, see 4.3.2.5",
+		"Note f: Fundamental deviations N for standard tolerance grades above IT8 shall not be used for nominal sizes <= 1 mm"
+	]
 }
